@@ -12,11 +12,12 @@ This project is a beginner-friendly mini game to practice Python basics, includi
 
 1. Run the `main.py` file.
 2. Enter your choice:
+   
    . `0` for Rock  
    . `1` for Paper  
    . `2` for Scissors
-3. The computer will randomly choose.
-4. The winner will be displayed.
+4. The computer will randomly choose.
+5. The winner will be displayed.
 
 
 
